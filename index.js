@@ -2,4 +2,4 @@
 let newHeader = document.createElement('h1')
 newHeader.id = "victory"
 newHeader.innerHTML = "Hajar"
-newHeader.className = "Hajar"
+newHeader.innerHTML = "is the champion"
